@@ -1,0 +1,1 @@
+## This repo create aws lambda with layer and eventbridge rule
